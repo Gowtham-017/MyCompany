@@ -1,0 +1,58 @@
+.homepage {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  h1 {
+    font-size: 32px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  footer {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  p {
+    margin-bottom: 10px;
+    
+  }
+  
+  .aboutbg{
+    background-image: url("about.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:290px;
+    /* width:900px; */
+    /* margin-left: -300px; */
+  }
+  .sect{
+    background-color: rgba(41, 64, 155, 0.131);
+    width: 1620px;
+    margin-left: -410px;
+  }
+  .aboutfoot{
+    background-color: rgba(30, 63, 86, 0.313);
+    margin-top: -30px;
+    width: 1620px;
+    margin-left: -410px;
+  }
